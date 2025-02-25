@@ -41,7 +41,6 @@
 					}
 			%>
 	
-		<input name="stuNo" value="<%= stuNo %>" hidden>
 		<input type="submit" value="수정">
 	</form>
 </body>
